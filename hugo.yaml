@@ -131,7 +131,7 @@ params:
     enable: true
     intro: "Hello. I am"
     title: "James."
-    subtitle: "I go crazy style on it!"
+    subtitle: "I am going slightly mad!"
     content: "You are either a smart fella, or a fart smella."
     image: /images/photos/IMG (16).jpg
     bottomImage1:
