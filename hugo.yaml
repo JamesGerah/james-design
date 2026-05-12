@@ -101,7 +101,7 @@ params:
     backgroundColor: "#221d38"
     secondaryBackgroundColor: "#4784B3"
     primaryColor: "#f2c56e"
-    secondaryColor: "#1375BA"
+    secondaryColor: "#372E8C"
 
   # If you want to customize the menu, you can change it here
   navbar:
@@ -290,8 +290,8 @@ params:
      
      
       - title: Kagemusha
-        content: This project is an interactive art piece, as well as a game rolled into one. It is a commentary on the romanticism surrounding glory in battle, 
-         especially further back in time, as this game is set in the Napoleonic era.            
+        content: Team Hydra's first project, Kagemusha is a first person stealth game being developed as we speak. As of early may, we have an alpha build ready, in order to showcase our work, which
+         you can play right now!      
          
         image: /images/kagemusha.png
         featured:
@@ -309,13 +309,15 @@ params:
         #    url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
       
       - title: A Treatise Concerning Correct Combat Conduct for Officers in the Theatre of War
-        content: This project is an interactive art piece, as well as a game rolled into one. It is a commentary on the romanticism surrounding glory in battle, 
-         especially further back in time, as this game is set in the Napoleonic era.            
+        content: 
+          This project is an interactive art piece, as well as a game rolled into one. I constructed it by hand, designed the pieces and the board myself, as well as learned photography just to 
+          document it for others to see. It is a commentary on the romanticism surrounding glory in battle, 
+          especially further back in time, as this game is set in the Napoleonic era.  
          
         image: /images/photos/IMG (5).jpg
         featured:
           name: Images
-          link: https://geratt.itch.io/tccoc
+          link: https://geratt.itch.io/tccc
 
       - title: Ennui at the Disco
         content: Made in a simple game engine called Môsi, this game is intended to convey its themes more through its writing and story as opposed to its depth of game mechanics. You play as our hero, Steve, and follow his investigation into the newest Nightclub that opened up in his town.
